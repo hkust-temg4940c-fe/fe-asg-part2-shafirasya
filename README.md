@@ -3,4 +3,4 @@
 
 This is a Machine Learning project that I created for TEMG4940C assignment. The code is available in the "Monica_20817930_TEMG4940C_ML_Assignment.ipynb" file. In this project, I use Python with pandas and numpy. I also used sklearn and LIME library to help in data preprocessing, ML modelling, evaluation, and optimization. Moreover, for visualization, I used matplotlib.
 
-To access the dashboard, you can go to the link at the end of the ipynb file. This will take you to the `ExplainerDashboard` for my machine learning project. The dashboard shows the performance of my SVM model on a test set, and provides insights into which features are most important for predicting whether a customer is likely to respond to a promotional offer
+To access the dashboard, you can go to the link at the end of the ipynb file. This will take you to the `ExplainerDashboard` for my machine learning project. The dashboard shows the performance of my SVM model on a test set, and provides insights into which features are most important for predicting whether a customer is likely to respond to a promotional offer.
