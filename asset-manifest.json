@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/css/main.073c9b0a.css",
+    "main.js": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/js/main.b893e679.js",
+    "static/js/787.9ddeaa69.chunk.js": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/js/787.9ddeaa69.chunk.js",
+    "static/media/EDA_plots.png": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/media/EDA_plots.d933b5e9470a73750d64.png",
+    "static/media/ME_plots.png": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/media/ME_plots.ae6a18941aaa5d43c6d3.png",
+    "static/media/MIG_plots.png": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/media/MIG_plots.3ba94f9854c06ee123ab.png",
+    "static/media/logo.svg": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/index.html",
+    "main.073c9b0a.css.map": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/css/main.073c9b0a.css.map",
+    "main.b893e679.js.map": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/js/main.b893e679.js.map",
+    "787.9ddeaa69.chunk.js.map": "/hkust-temg4940c-fe/fe-asg-part2-shafirasya/static/js/787.9ddeaa69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b893e679.js"
+  ]
+}
